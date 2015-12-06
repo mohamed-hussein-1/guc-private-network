@@ -1,2 +1,2 @@
-class TeachingAssistant < ActiveRecord::Base
+class TeachingAssistant < User
 end
